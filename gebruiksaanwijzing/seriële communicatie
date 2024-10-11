@@ -1,0 +1,19 @@
+Stap 1: Aansluiten
+
+Verbind de HC-06 met de Arduino:
+VCC → 5V
+GND → GND
+TXD → D3
+RXD → D2
+Stap 2: Code uploaden
+
+Open de Arduino IDE en plak de code.
+Upload de code naar de Arduino.
+Stap 3: Serial Monitor openen
+
+Open de Serial Monitor.
+Je ziet de tekst: "ENTER AT Commands:".
+Stap 4: AT-commando’s verzenden
+
+Typ het commando AT in de Serial Monitor en druk op verzenden.
+De HC-06 zou moeten reageren met "OK".
