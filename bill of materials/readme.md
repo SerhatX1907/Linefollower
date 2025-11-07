@@ -14,4 +14,4 @@
 |9|HC-05|Bluetooth module|nieuw|€2.49|1|€2.49
 |10|Batterij houder|voor 18650|nieuw|€1.69|1|€1.69
 |11|Centraal wiel|metaal bol|recup|€2.27|1|€2.27
-|||||||TOTAAL €45.66
+|||||||TOTAAL €29.54
