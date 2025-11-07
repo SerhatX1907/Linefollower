@@ -7,7 +7,7 @@
 |2|      H-brug|  DRV8833 2channel DC Motor Driver Module|Nieuw|€1.59|1|€1.59
 |3|DC Motoren| GA12-N20 DC 3V 6V 12V Micro Metal Reductiemotor 300RPM|nieuw|€2.33|2|€4.66
 |4|Batterij+lader|3.7 V 18650 9800 mAh capaciteit lithium-ion oplaadbare batterij|nieuw|€9.39|1|€9.39
-|5|Breadboard+jumper wires|voor verbinding|nieuw|€3.5|1|€3.5
+|5|Breadboard+jumper wires|voor verbinding|nieuw|€2.61|1|€2.61
 |6|Chassis| houten plaat|recup|/|1|/
 |7|IR Sensor|QTR-8A|nieuw|€20|1|€20
 |8| weerstand|1k,2.2k|recup|/|2|/
