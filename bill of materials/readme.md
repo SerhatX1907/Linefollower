@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|---------|------|---------|
-|         1|  Microcontroller  |Arduino Uno             |      Recup      |    /          | 1     |     /    |
+|         1|  Microcontroller  |ATmega328             |      Recup      |    /          | 1     |     /    |
 |2|      H-brug|  DRV8833 2channel DC Motor Driver Module|Nieuw|€1.59|1|€1.59
 |3|DC Motoren| GA12-N20 DC 3V 6V 12V Micro Metal Reductiemotor 300RPM|nieuw|€2.33|2|€4.66
 |4|Batterij+lader|3.7 V 18650 9800 mAh capaciteit lithium-ion oplaadbare batterij zaklamp batterij + lader|nieuw|€9.39|1|€9.39
