@@ -9,11 +9,9 @@
 |4|Batterij+lader|3.7 V 18650 9800 mAh capaciteit lithium-ion oplaadbare batterij|nieuw|€9.39|1|€9.39
 |5|Breadboard+jumper wires|voor verbinding|nieuw|€2.61|1|€2.61
 |6|Chassis| houten plaat|recup|/|1|/
-|7|IR Sensor|QTR-8A|nieuw|€20|1|€20
-|8| weerstand|1k,2.2k|recup|/|2|/
-|9|wielen|Rubber Wiel|nieuw|€1.17|2|€2.34
-|10|HC-05|Bluetooth module|nieuw|€2.49|1|€2.49
-|11|Batterij houder|voor 18650|nieuw|€1.69|1|€1.69
-|12|Centraal wiel|metaal bol|recup|/|1|/
-|13|vijzen+moer||recup|/|5|/
+|7|IR Sensor|QTR-8A|nieuw|€2.5|1|€2.5
+|8|wielen|Rubber Wiel|nieuw|€1.17|2|€2.34
+|9|HC-05|Bluetooth module|nieuw|€2.49|1|€2.49
+|10|Batterij houder|voor 18650|nieuw|€1.69|1|€1.69
+|11|Centraal wiel|metaal bol|recup|€2.27|1|€2.27
 |||||||TOTAAL €45.66
