@@ -1,7 +1,7 @@
-const int IN1 = 10;  // motor A forward
-const int IN2 = 9;   // motor A reverse
-const int IN3 = 6;   // motor B forward
-const int IN4 = 5;   // motor B reverse
+const int IN1 = 3;  // motor A forward
+const int IN2 = 4;   // motor A reverse
+const int IN3 = 7;   // motor B forward
+const int IN4 = 8;   // motor B reverse
 
 void setup() {
   pinMode(IN1, OUTPUT);
